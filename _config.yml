@@ -1,6 +1,6 @@
 # main text of home
 name: Marco Ribeiro
-bio: A scientist who exchanges coffee for discoveries
+bio: Turning coffee into science
 
 # twitter summary info
 description: Marco's personal page
@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -34,17 +34,20 @@ disqus:
   categories: [] # [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: facedomarco
+# facebook: facedomarco
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: marco-ribeiro-38966111a
 # youtube: myyoutube
 # spotify: myspotify
 github: marcopush
+lattes: 7770838213198044
+# scholar: y1xlxlsAAAAJ
+researchgate: Marco_Ribeiro11
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 6441345
 # quora: userquora
 # reddit: username
 # medium: medium
@@ -54,8 +57,8 @@ github: marcopush
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A scientist who exchanges coffee for discoveries
+        name: Marco Ribeiro
+        bio: Turning coffee into science
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe
