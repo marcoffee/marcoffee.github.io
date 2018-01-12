@@ -97,6 +97,9 @@ show-author: true
 # do you want some animations?
 animation: true
 
+# use rss feed?
+use-feed: false
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
