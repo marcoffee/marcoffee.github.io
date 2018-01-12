@@ -22,7 +22,7 @@ url: http://marcoribeiro.me
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-111749502-1'
+analytics-google: "UA-111749502-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -43,11 +43,11 @@ linkedin: marco-ribeiro
 # youtube: myyoutube
 # spotify: myspotify
 github: marcopush
-lattes: 7770838213198044
+lattes: "7770838213198044"
 # scholar: y1xlxlsAAAAJ
 researchgate: Marco_Ribeiro11
 # lastfm: mylastfm
-stackoverflow: 6441345
+stackoverflow: "6441345"
 # quora: userquora
 # reddit: username
 # medium: medium
@@ -56,12 +56,12 @@ stackoverflow: 6441345
 # email: speaktomarco@gmail.com
 
 authors:
-    johndoe:
-        name: Marco Ribeiro
-        bio: Turning coffee into science
-        external-image: false
-        picture: assets/images/profile.jpg
-        # twitter: johndoe
+  marcoribeiro:
+    name: Marco Ribeiro
+    bio: Turning coffee into science
+    external-image: false
+    picture: assets/images/profile.jpg
+    # twitter: marcoribeiro
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -73,11 +73,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+about: false
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
