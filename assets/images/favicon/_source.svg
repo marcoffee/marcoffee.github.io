@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="coffee"
+   x="0px"
+   y="0px"
+   width="220"
+   height="220"
+   viewBox="-25 0 220 220"
+   enable-background="new 0 0 183 231"
+   xml:space="preserve"
+   sodipodi:docname="french_press.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"><defs
+   id="defs2066" /><sodipodi:namedview
+   id="namedview2064"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="4.4458874"
+   inkscape:cx="31.264849"
+   inkscape:cy="109.42697"
+   inkscape:window-width="3368"
+   inkscape:window-height="1376"
+   inkscape:window-x="72"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="coffee" />
+<circle
+   style="fill:#ffffff;stroke-width:1.15277;fill-opacity:1"
+   id="path2123"
+   cx="85"
+   cy="110"
+   r="110" /><g
+   id="parts"
+   transform="matrix(0.90325705,0,0,0.90325705,2.8036084,-0.7778178)">
+	<defs
+   id="defs2006">
+		<rect
+   id="SVGID_1_"
+   x="-59"
+   y="-34"
+   width="300"
+   height="300" />
+	</defs>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   id="use2008" />
+	</clipPath>
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#eceff9"
+   d="M 41,191 H 141 V 76 H 16 c 0.5,4.5 3,8.999 7,11.499 L 29,91 c 7.5,4.5 12,12.5 12,21.499 z"
+   id="path2011" />
+	<rect
+   x="111"
+   y="76"
+   clip-path="url(#SVGID_2_)"
+   fill="#c2ddf2"
+   width="30"
+   height="60"
+   id="rect2013" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#ffffff"
+   d="m 36,97.499 c 3,4.5 5,9.5 5,15 V 151 h 5 V 76 H 36 Z"
+   id="path2015" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#014463"
+   d="M 91,36 C 82.499,36 76,29.501 76,21 76,12.499 82.499,6 91,6 c 8.501,0 15,6.499 15,15 0,8.501 -6.499,15 -15,15 m 0,-20 c -3,0 -5,2 -5,5 0,3 2,5 5,5 2.998,0 5,-2 5,-5 0,-3 -2.002,-5 -5,-5"
+   id="path2017" />
+	<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="86"
+   y1="106"
+   x2="96"
+   y2="106">
+		<stop
+   offset="0.1478"
+   style="stop-color:#4D4D4D"
+   id="stop2019" />
+		<stop
+   offset="0.1908"
+   style="stop-color:#545454"
+   id="stop2021" />
+		<stop
+   offset="0.2539"
+   style="stop-color:#686868"
+   id="stop2023" />
+		<stop
+   offset="0.3294"
+   style="stop-color:#888888"
+   id="stop2025" />
+		<stop
+   offset="0.4145"
+   style="stop-color:#B5B5B5"
+   id="stop2027" />
+		<stop
+   offset="0.5066"
+   style="stop-color:#EEEEEE"
+   id="stop2029" />
+		<stop
+   offset="0.532"
+   style="stop-color:#FFFFFF"
+   id="stop2031" />
+		<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop2033" />
+	</linearGradient>
+	<rect
+   x="86"
+   y="76"
+   clip-path="url(#SVGID_2_)"
+   fill="url(#SVGID_3_)"
+   width="10"
+   height="60"
+   id="rect2036"
+   style="fill:url(#SVGID_3_)" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#d5e3ef"
+   d="m 141,61 c 0,-3 -2.002,-5 -5,-5 H 46 c -3,0 -5,2 -5,5 v 5 h 100 z"
+   id="path2038" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#014463"
+   d="m 91,51 c -3,0 -5,-2 -5,-5 V 31 c 0,-3 2,-5 5,-5 2.998,0 5,2 5,5 v 15 c 0,3 -2.002,5 -5,5"
+   id="path2040" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#d5e3ef"
+   d="M 146,201 H 36 v 10 c 0,2.998 2,5 5,5 h 100 c 2.998,0 5,-2.002 5,-5 z"
+   id="path2042" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#a35425"
+   d="M 41,150.502 V 191 h 100 v -47.5 c -6.001,-5 -13.999,-7.5 -22.5,-7.5 -8.999,0 -17.5,2.998 -23.999,8.999 C 86,152.001 74.999,156 63.5,156 c -8,0 -16.001,-2.002 -22.5,-5.498"
+   id="path2044" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#b06328"
+   d="m 44.501,141 c 11.001,6.499 27,6.499 38,0 -11.001,-6.499 -26.999,-6.499 -38,0"
+   id="path2046" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#014463"
+   d="M 63.5,156 C 52.001,156 41,152.001 32.501,144.999 31.5,143.998 31,142.499 31,141 c 0,-1.499 0.5,-2.998 1.501,-3.999 C 41,129.999 51.5,126 63.5,126 c 12.002,0 22.5,3.999 31.001,11.001 1.001,1.001 1.499,2.5 1.499,3.999 0,1.499 -0.498,2.998 -1.499,3.999 C 86,152.001 75.001,156 63.5,156 M 44.501,141 c 11.001,6.499 27,6.499 38,0 -11.001,-6.499 -26.999,-6.499 -38,0"
+   id="path2048" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#ecf0f9"
+   d="m 46,66 h -5 v -5 c 0,-3 2,-5 5,-5 z"
+   id="path2050" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#a3c7e5"
+   d="m 111,66 h 30 v -5 c 0,-3 -2.002,-5 -5,-5 h -15 c -5.498,0 -10,4.5 -10,10"
+   id="path2052" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#752f10"
+   d="m 118.5,136 c -2.5,0 -5,0.498 -7.5,0.498 V 171 H 96 v -27.5 l -1.499,1.499 c -2.5,2.002 -5.5,3.999 -8.501,5.503 V 171 H 56 c -3,0 -5,2.002 -5,5 0,2.998 2,5 5,5 h 55 v 10 h 30 v -47.5 c -6.001,-5 -13.999,-7.5 -22.5,-7.5 z"
+   id="path2054" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#a6cae2"
+   d="m 116,201 c -2.998,0 -5,2.002 -5,5 0,2.998 -2.002,5 -5,5 H 56 36 c 0,2.998 2,5 5,5 h 75 25 c 2.998,0 5,-2.002 5,-5 v -10 z"
+   id="path2056" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#014463"
+   d="m 161,66 h -5 c 0,-3 -2.002,-5 -5,-5 0,-8.501 -6.499,-15 -15,-15 H 46 c -8.501,0 -15,6.499 -15,15 v 5 H 11 c -3,0 -5,2 -5,5 v 3.501 C 6,83 10.5,91.5 18,96 l 5.5,3.501 c 4.5,2.5 7.5,7.5 7.5,12.998 V 191 c -3,0 -5,2.002 -5,5 v 15 c 0,8.501 6.499,15 15,15 h 100 c 8.501,0 15,-6.499 15,-15 v -10 h 5 c 8.501,0 15,-6.499 15,-15 V 81 c 0,-8.501 -6.499,-15 -15,-15 M 41,61 c 0,-3 2,-5 5,-5 h 90 c 2.998,0 5,2 5,5 v 5 H 41 Z M 29,91 23.5,87.499 C 19,84.999 16.5,80.499 16,76 h 20 105 v 55.498 C 134.501,128.002 126.498,126 118.5,126 107.001,126 96,129.999 87.499,137.001 81,142.499 72.499,146 63.5,146 54.999,146 47.001,143.5 41,138.5 V 112.001 C 41,103.5 36.5,95.5 29,91 m 12,59.502 C 47.499,153.998 55.5,156 63.5,156 74.999,156 86,152.001 94.501,144.999 101,139.501 109.501,136 118.5,136 c 8.501,0 16.499,2.5 22.5,7.5 V 191 H 41 Z M 146,211 c 0,2.998 -2.002,5 -5,5 H 41 c -3,0 -5,-2.002 -5,-5 v -10 h 110 z m 20,-25 c 0,2.998 -2.002,5 -5,5 H 151 V 81 c 2.998,0 5,-2 5,-5 h 5 c 2.998,0 5,2 5,5 z"
+   id="path2058" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#443008"
+   d="M 91,134.375 C 64.5,117.208 40.937,131.437 40.937,131.437 l 0.125,19.25 c 11.375,5.5 18.938,5.188 18.938,5.188 21.5,1.875 36,-12.041 36,-12.041 24.5,-17.667 45,-0.334 45,-0.334 l 0.063,-11.938 C 113.875,117.438 91,134.375 91,134.375 Z M 44.501,141 c 11.001,-6.499 26.561,-6.624 37.562,-0.125 -11.001,6.499 -26.561,6.624 -37.562,0.125 z"
+   id="path2060" />
+</g>
+<metadata
+   id="metadata2068"><rdf:RDF><cc:License
+       rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License><cc:Work
+       rdf:about=""><cc:license
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /></cc:Work></rdf:RDF></metadata></svg>
